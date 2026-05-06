@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 # Hi, I'm Dhvanit 👋
 
 💻 Python Backend Developer
+
 🚀 Building Efficient & Scalable web apps
+
 📫 Reach me: dhvanit4950@gmail.com
