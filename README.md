@@ -1,7 +1,7 @@
-## Hi there 👋
 
 <!--
 **dhvanitsavani/dhvanitsavani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Dhvanit 👋
+
+💻 Python Backend Developer
+🚀 Building Efficient & Scalable web apps
+📫 Reach me: dhvanit4950@gmail.com
